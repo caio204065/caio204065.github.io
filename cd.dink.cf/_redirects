@@ -1,0 +1,8 @@
+# Rainbow Penguins redirect
+/rainbowpenguins/* https://www.cpatake.boo/?src=rainbowpenguins/:splat 301
+# Not Available Error
+/notavailable/ https://ext.dink.cf/501 301
+# Just-Dance Now redirect
+/just%20dance%20now/* /jdn/:splat 301
+/just%20dance%20now/ /jdn/ 301
+/just%20dance%20now /jdn 301
